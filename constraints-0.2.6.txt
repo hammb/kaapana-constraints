@@ -39,4 +39,4 @@ wheel>=0.42.0
 # Security fix for CVE-2022-40897
 setuptools>=69.0.3
 # Security fix for GHSA-74m5-2c7w-9w3x
-starlette>=0.34.0
+starlette>=0.33.0
