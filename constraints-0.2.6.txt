@@ -40,3 +40,5 @@ wheel>=0.42.0
 setuptools>=69.0.3
 # Security fix for GHSA-74m5-2c7w-9w3x
 starlette>=0.32.0
+# Security fix for CVE-2023-40267
+GitPython==0.3.2
