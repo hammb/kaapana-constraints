@@ -40,5 +40,21 @@ wheel>=0.42.0
 setuptools>=69.0.3
 # Security fix for GHSA-74m5-2c7w-9w3x
 starlette>=0.32.0
+# Security fix for CVE-2023-30861
+Flask>=2.2.5
+# Security fix for CVE-2021-41945
+httpx>=0.26.0
+# Security fix for CVE-2023-29005
+Flask-AppBuilder>=4.3.0
+# Security fix for CVE-2023-49081
+aiohttp>=3.9.1
+# Security fix for CVE-2023-25754
+apache-airflow>=2.7.0
+# Security fix for CVE-2022-3697
+ansible>=7.0.0
+# Security fix for CVE-2023-33733
+reportlab>=4.0.9
+# Security fix for CVE-2023-41419
+gevent>=23.9.1
 # Security fix for CVE-2023-40267
-GitPython==0.3.2
+GitPython>=3.1.41
