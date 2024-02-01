@@ -25,7 +25,7 @@ oauthlib>=3.2.2
 # Security fix for CVE-2023-44271
 Pillow>=10.2.0
 # Security fix for CVE-2022-1941
-protobuf>=4.25.1
+protobuf>=4.23.4
 # Security fix for CVE-2022-29217
 PyJWT>=2.8.0 
 # Security fix for CVE-2020-14343
